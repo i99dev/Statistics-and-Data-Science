@@ -3,6 +3,7 @@ ipykernel
 pandas
 numpy
 autopep8
+zipfile36
 matplotlib
 tensorflow_datasets
 nbconvert
